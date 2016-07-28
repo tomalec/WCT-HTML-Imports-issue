@@ -19,4 +19,4 @@ Everything should execute silently. See Chrome.
 ## Result
 
 You will see `Object expected` error
-![Error thrown](https://raw.githubusercontent.com/tomalec/WCT-HTML-Imports-issue/master/error.png)
+![Error thrown](https://raw.githubusercontent.com/tomalec/WCT-HTML-Imports-issue/gh-pages/error.png)
