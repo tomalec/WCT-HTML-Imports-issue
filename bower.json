@@ -1,0 +1,23 @@
+{
+  "name": "WCT-HTML-Imports-issue",
+  "authors": [
+    "Tomek Wytrebowicz <tomalecpub@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "^1.6.0",
+    "web-component-tester": "^4.3.1",
+    "webcomponentsjs": "webcomponents.js#^0.7.22"
+  }
+}

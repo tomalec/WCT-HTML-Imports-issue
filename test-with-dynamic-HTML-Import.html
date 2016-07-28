@@ -1,0 +1,22 @@
+<head>
+    <script src="../web-component-tester/browser.js"></script>
+    <script src="../webcomponentsjs/webcomponents.js"></script>
+</head>
+
+<body>
+    <script>
+    setTimeout(function () {
+    // describe('my-element', function () {
+    //     it('test', function () {
+        var link = document.createElement('link');
+        link.rel = "import";
+        link.href = "import.html";
+        link.onload = function processImportedDocument() {
+            console.info('loaded');
+        };
+        document.head.appendChild(link);
+        // });
+    });
+    </script>
+
+</body>
