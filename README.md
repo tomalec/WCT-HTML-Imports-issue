@@ -9,7 +9,7 @@ It only happens when run on [polyserve](https://github.com/PolymerLabs/polyserve
 
 1. Clone the repo,
 2. Install polyserve `npm install -g polyserve`,
-3. Run it `polyserve`,
+3. Run `polyserve`,
 4. Open IE/Fifeox with devtools opened,
 5. Open http://localhost:8080/components/WCT-HTML-Imports-issue/
 
